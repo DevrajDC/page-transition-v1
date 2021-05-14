@@ -39,6 +39,7 @@ h1 {
   top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
+  width: fit-content;
 }
 .button a {
   font-family: Arial, Helvetica, sans-serif;
